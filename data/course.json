@@ -1,0 +1,60 @@
+{
+  "term": "Summer",
+  "year": "2008",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "International Development"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ]
+  ],
+  "legacy_uid": "a5669fc8-f77e-35b6-8e01-c06857945d97",
+  "instructors": {
+    "content": [
+      "d87e83b9-8b59-f0ab-95a7-d675cc81c8aa"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1eee4476-7791-f6d5-4ac5-31067cf51ae2",
+    "website": "11-307-beijing-urban-design-studio-summer-2008"
+  },
+  "course_title": "Beijing Urban Design Studio",
+  "course_description": "In 2008, the Beijing Urban Design Studio will focus on the issue of Beijing's urban transformation under the theme of de-industrialization, by preparing an urban design and development plan for the Shougang (Capital Steel Factory) site. This studio will address whether portions of the old massive factory infrastructure can be preserved as a national industrial heritage site embedded into future new development; how to balance the cultural and recreational value of the site with environmental challenges; as well as how to use the site for urban development. A special focus of the studio will be to consider development approaches that minimize energy utilization.\n\nTo research these questions, students will be asked to interact with clients from the factory, local residents, city officials and experts on transportation, environment, energy and real estate. They will assess strategic options for the steel factory and propose comprehensive plans for the design and development of the brownfield site.\n",
+  "department_numbers": [
+    "11",
+    "4"
+  ],
+  "extra_course_numbers": "4.166",
+  "primary_course_number": "11.307",
+  "course_image_thumbnail": {
+    "content": "69ec8afe-a303-6175-11b9-087661b2d8b9",
+    "website": "11-307-beijing-urban-design-studio-summer-2008"
+  },
+  "learning_resource_types": [
+    "Projects with Examples",
+    "Presentation Assignments with Examples"
+  ],
+  "site_uid": "b2a5259a-8509-41c0-87d8-b42cc3b3f929",
+  "site_short_id": "11.307-summer-2008",
+  "site_url_path": "courses/11-307-beijing-urban-design-studio-summer-2008",
+  "title": "Course Metadata"
+}
